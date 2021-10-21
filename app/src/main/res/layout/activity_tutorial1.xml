@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/homepage_image"
-    tools:context=".MainActivity">
-    
+    tools:context=".TutorialActivity1"
+    android:background="@drawable/tutorial_page_1"
+    android:onClick="gotoTutorial2">
+
 </androidx.constraintlayout.widget.ConstraintLayout>

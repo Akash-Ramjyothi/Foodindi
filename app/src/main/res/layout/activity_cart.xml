@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/homepage_image"
-    tools:context=".MainActivity">
-    
+    tools:context=".CartActivity"
+    android:background="@drawable/cart_activity_image"
+    android:onClick="gotoPaymentMethodActivity">
+
 </androidx.constraintlayout.widget.ConstraintLayout>

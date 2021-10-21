@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/homepage_image"
-    tools:context=".MainActivity">
-    
+    tools:context=".OrderPlacedActivity"
+    android:background="@drawable/order_placed_image"
+    android:onClick="gotoProfileActivity">
+
 </androidx.constraintlayout.widget.ConstraintLayout>
