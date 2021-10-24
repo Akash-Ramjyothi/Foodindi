@@ -10,6 +10,16 @@ Foodinidi is a simple app that links people who love to cook with the people who
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/138286917-78da23e0-f9e3-4676-8103-0c82587862f1.mp4
 
+## 🏗 Built With:
+ - Android SDK.
+ - Android Studio.
+ - Pixel 4 Android Mobile.
+ - Java.
+ - XML.
+ - MVVM Architecture.
+ - Google Maps API.
+ - Firebase Authentication.
+
 ## 🧪 Steps to Build locally:
 - Open Android Studio IDE.
 - Clone with `git clone https://github.com/Akash-Ramjyothi/Foodindi`.
