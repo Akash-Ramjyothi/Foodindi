@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/54114888/138286917-78da23e0-f9e3-4676-
 
 <h2 align="center">Nikhil Unnikrishnan</h2>
 <p align="center">
-  <a href="https://github.com/Akash-Ramjyothi"><img src="https://user-images.githubusercontent.com/54114888/138286602-fb819790-d73f-4a64-ada5-5d78fac92292.png" width=150px height=150px /></a> 
+  <a href="https://github.com/Akash-Ramjyothi"><img src="https://user-images.githubusercontent.com/54114888/139796857-1df4761c-4ae4-4d32-8b5f-d3c25de5cdec.jpeg" width=150px height=150px /></a> 
     
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nikhil-unnikrishnan-91106115a/?originalSubdomain=in"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
