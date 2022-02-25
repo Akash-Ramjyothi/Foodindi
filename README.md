@@ -7,6 +7,9 @@
 ## 📜 Description:
 Foodinidi is a simple app that links people who love to cook with the people who love to eat home cooked food. Developed a Food delivery service application which resulted in a drastic improvement in the conditions of Covid-19 affected households and other community service facilities and distribution centres. Narrowed the number of pedestrians or commuters visiting outside to get their food and other essentials. Targeted the project to be more towards charity service rather than commercial gains. A small step towards humanity.
 
+## 🌳 Social-Welfare Usecase:
+This Project help restaurants provide a straightforward and enjoyable customer experience, which leads to higher sales and shorter wait times. Early table booking via restaurant apps appears to be a thing of the past, given the simplicity with which food may be delivered to one's doorstep.
+
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/138286917-78da23e0-f9e3-4676-8103-0c82587862f1.mp4
 
